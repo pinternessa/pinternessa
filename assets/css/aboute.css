@@ -1,0 +1,24 @@
+@media (min-width: 300px) {
+  .bs-icon-xs.bs-icon-circle.bs-icon {
+    width: 56px;
+    height: 56px;
+  }
+}
+
+@media (min-width: 768px) {
+  h1 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 300px) {
+  section {
+    position: relative;
+  }
+}
+
+@media (min-width: 300px) {
+  footer {
+  }
+}
+
